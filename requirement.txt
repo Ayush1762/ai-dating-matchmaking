@@ -1,0 +1,12 @@
+
+
+-------------------------------------------------------------INSTALL FOLLOWING PACKAGES---------------------------------------------------
+
+
+
+                                                                    openai
+                                                                    streamlit
+                                                                    numpy
+                                                                    scikit-learn
+                                                                    sentence-transformers
+                                                                    python-dotenv
