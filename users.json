@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "bio": "Adventure seeker who loves hiking in the hills and discovering hidden waterfalls.",
+    "interests": ["hiking", "waterfalls", "photography"],
+    "gender": "Female",
+    "looking_for": "Male"
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "bio": "Tech nerd fascinated by jazz music and weekend camping under the stars.",
+    "interests": ["technology", "jazz", "camping"],
+    "gender": "Male",
+    "looking_for": "Female"
+  },
+  {
+    "id": 3,
+    "name": "Clara",
+    "bio": "Bookworm who loves mystery novels and quiet coffee shop afternoons.",
+    "interests": ["reading", "coffee", "mystery novels"],
+    "gender": "Female",
+    "looking_for": "Male"
+  },
+  {
+    "id": 4,
+    "name": "Dev",
+    "bio": "Aspiring chef who experiments with global cuisines and loves salsa dancing.",
+    "interests": ["cooking", "salsa", "travel"],
+    "gender": "Male",
+    "looking_for": "Female"
+  },
+  {
+    "id": 5,
+    "name": "Esha",
+    "bio": "Yoga enthusiast and sunrise chaser with a passion for mindfulness retreats.",
+    "interests": ["yoga", "meditation", "sunrises"],
+    "gender": "Female",
+    "looking_for": "Male"
+  },
+  {
+    "id": 6,
+    "name": "Farhan",
+    "bio": "Guitar player who enjoys indie rock, coding side projects, and late-night drives.",
+    "interests": ["music", "coding", "road trips"],
+    "gender": "Male",
+    "looking_for": "Female"
+  },
+  {
+    "id": 7,
+    "name": "Gina",
+    "bio": "Wildlife photographer and animal lover always planning the next safari.",
+    "interests": ["photography", "wildlife", "travel"],
+    "gender": "Female",
+    "looking_for": "Male"
+  },
+  {
+    "id": 8,
+    "name": "Hitesh",
+    "bio": "Fitness buff and marathon runner who unwinds with classical music.",
+    "interests": ["running", "fitness", "classical music"],
+    "gender": "Male",
+    "looking_for": "Female"
+  }
+]
+
